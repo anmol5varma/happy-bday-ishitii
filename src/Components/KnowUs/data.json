@@ -1,5 +1,15 @@
 [
     {
+        "imageList": ["shreya_1.jpg", "shreya_2.jpg"],
+        "title": "Shreya",
+        "message": "Babs, Thank you for being everything I could have ever asked for and more. You make me a better human. College, work ( even though we stay in different cities), or even life would not be the same without you. And I'd want it no other way. I shudder to think what'd happen when you'd go to the States. But I am fairly happy for you. And proud of you as always!"
+    },
+    {
+        "imageList": ["booti_2.jpeg"],
+        "title": "Butti",
+        "message": ""
+    },
+    {
         "imageList": ["nans_1.jpeg", "nans_2.jpeg"],
         "title": "Nainshree",
         "message": "Happy Birthday \"chhotu\". I can visualize the times we have spent together writting this. And it seems like the best and beautiful chaper of our life.only 2 of us has not that much but I would never forget the part where you always asked me to wake you up in the morning but you were never awake on first call😜. You are the sweetest and most intelligent member of C-417.And I hope we will meet soon. Love you❤❤ And Happy Birthday💕💕."
@@ -15,9 +25,9 @@
         "message": "Hi babu, it's been close to 15 years since we've know each other and you have been nothing but a living doll, even now when you are turning 25! I have always adored you like a kid and also looked upto you for inspiration several times. I miss our sleepovers, whether it is sata you and me or just you and me. Drunk nights, discussing politics and the world and men, with a tub of ice cream and bowl of of chips!  I wish we could do that more often. I love you, and I am so so proud of the person you were and are today. I wish you a lifetime of happiness and all the love and success. Happiest birthday littul girl, love you tons!❤️❤️"
     },
     {
-        "imageList": ["niku_2.jpeg"],
-        "title": "Pritha",
-        "message": "Here's wishing a very Happy Birthday to the girl who has been a ray of sunshine during my childhood. Will always cherish the unique memories we have had. Couldn't have hoped for a better partner in crime than you as kids.\nEven though 2020 seems to be not so great right now, we must remember that there is ALWAYS light at the end of the tunnel. So here is still hoping and praying that you have an amazing year (and HEALTHY). Love you 😘"
+        "imageList": ["sparsh_1.png", "sparsh_2.jpeg"],
+        "title": "Sparsh",
+        "message": "Happy birthday Ghochu"
     },
     {
         "imageList": ["satva_1.png", "satva_2.jpeg"],
@@ -25,17 +35,7 @@
         "message": "Hi Basu, It's been quite a journey and I'm pretty sure you're just getting started. Thank you for letting me be a part of it. Happy Birthday! Please follow your dreams wherever they may lead you. \nLove,Guptu"
     },
     {
-        "imageList": ["sparsh_1.png", "sparsh_2.jpeg"],
-        "title": "Sparsh",
-        "message": "Happy birthday Ghochu"
-    },
-    {
-        "imageList": ["shreya_1.jpg", "shreya_2.jpg"],
-        "title": "Shreya",
-        "message": "Babs, Thank you for being everything I could have ever asked for and more. You make me a better human. College, work ( even though we stay in different cities), or even life would not be the same without you. And I'd want it no other way. I shudder to think what'd happen when you'd go to the States. But I am fairly happy for you. And proud of you as always!"
-    },
-    {
-        "imageList": ["yogesh_1.jpeg"],
+        "imageList": ["yogesh_1.jpeg", "yogesh_2.jpeg"],
         "title": "Yogesh",
         "message": "Hey Lily, it's your Birthdayyyyyyyyy. You know how much you mean to us. Just promise us that you are going to remain short so that we can make all the 'Short girl vulgar' jokes. And please buck up, so that I don't have to change my contact from 'MFFB' 🧡🧡"
     },
@@ -45,9 +45,9 @@
         "message": "Hey basu. Got to take another picture , this one has become saturated. Looking forward to more late night pandemic-time conversations and your arrival to the US"
     },
     {
-        "imageList": ["booti_2.jpeg"],
-        "title": "Butti",
-        "message": "Hey Lily, it's your Birthdayyyyyyyyy. You know how much you mean to us. Just promise us that you are going to remain short so that we can make all the 'Short girl vulgar' jokes. And please buck up, so that I don't have to change my contact from 'MFFB' 🧡🧡"
+        "imageList": ["niku_2.jpeg"],
+        "title": "Pritha",
+        "message": "Here's wishing a very Happy Birthday to the girl who has been a ray of sunshine during my childhood. Will always cherish the unique memories we have had. Couldn't have hoped for a better partner in crime than you as kids.\nEven though 2020 seems to be not so great right now, we must remember that there is ALWAYS light at the end of the tunnel. So here is still hoping and praying that you have an amazing year (and HEALTHY). Love you 😘"
     },
     {
         "imageList": ["rohan_1.jpeg", "rohan_2.jpeg"],
@@ -61,8 +61,8 @@
     },
     {
         "imageList": ["nirvashi_1.jpeg", "nirvashi_2.jpeg"],
-        "title": "Nirvashi",
-        "message": "Happy birthday Little Basu"
+        "title": "Nirvishi",
+        "message": "Hey Basu,\nLong time no see :/\nTo the chillest person I know, from our own tiny squad, thank you for always being there. Here's to all the times, from clubhouse to Coorg, to Munnar and hopefully CU ;) \nHappy Birthday cutie!! See you soon!"
     },
     {
         "imageList": ["prerit_1.jpeg", "prerit_2.jpeg"],
@@ -81,7 +81,7 @@
     },
     {
         "imageList": ["bhayu_1.jpeg", "bhayu_2.jpeg"],
-        "title": "Bhayu",
+        "title": "Bhaiyu",
         "message": "Happy birthday Little Basu"
     },
     {
@@ -98,5 +98,20 @@
         "imageList": ["neha_1.jpeg", "neha_2.jpeg"],
         "title": "Neha",
         "message": "Happy birthday Horihor Atma! Meet me soon! I miss you. Love you to the moon and back. ❤️"
+    },
+    {
+        "imageList": ["archit_1.jpeg", "archit_2.jpeg"],
+        "title": "Archit",
+        "message": "Happy birthday Horihor Atma! Meet me soon! I miss you. Love you to the moon and back. ❤️"
+    },
+    {
+        "imageList": ["saheli_1.jpeg"],
+        "title": "Saheli",
+        "message": "Heyyy Basu!! A very Happy birthday, my Bong Beauty ❤️❤️\nCan't believe you turned 24 today, still look like a seventeen year to me (I actually wonder, are u everrr going to age babe???)... Must say, those 4 years in VIT were my most memorable years till date coz I had such a fantastic and super awesome roomie like you... Thanks for all the awesome memories and our never ending craziness, hostel life wouldn't have been half as much fun if it weren't for U, Pings and Nains... Thanks for creating my fb account, being my company for the late-night mess food, for introducing me to Suits and many more cool stuffs... I am so deeply inspired by you for all the hard-work and dedication u put into any task that u undertake... Thanks for teaching me the joy in sharing food (Can't believe u guys actually succeeded in doing that 😛)... I hope all 4 of us get to reunite soon and relieve those carefree crazy days!!!\nWish u all the successes and happiness the world has to offer coz u my dear deserve the BEST!!   \nLove you and miss you sooo much chutkiii!! 💕💕\nMuch louvee,\nPillu"
+    },
+    {
+        "imageList": ["sago_1.jpeg"],
+        "title": "Sago",
+        "message": "Happy birthday Basuuuu!! You're a year older but still little! Now that Ritika is leaving us we have only each other. Enjoy lockdown birthday.. Hope it's a once in a lifetime experience!! Lots of love. ❤️"
     }
 ]
