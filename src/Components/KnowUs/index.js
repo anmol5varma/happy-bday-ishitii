@@ -5,6 +5,10 @@ import data from './data.json';
 
 
 export default class KnowUs extends Component {
+
+    componentDidMount() {
+        let myaudio = document.getElementById("music").autoplay = true;
+    }
     twoPiks = (imageName1, imageName2, imageHeading, imageDescription) => {
         return (
             <div className="memories-image-two">
@@ -54,6 +58,10 @@ export default class KnowUs extends Component {
     render() {
         return (
             <div>
+                <audio id="music" controls autoplay loop hidden="true">
+                    <source src="https://res.cloudinary.com/prateektiwari/video/upload/v1604507320/DefencePrep/Happy_Birthday_Party_Version_d844n0.mp3" type="audio/mpeg" />
+                   Your browser does not support the audio element.
+                </audio>
                 <div className="Memories-Container">
                     <div className="memories-image-container">
                         {
