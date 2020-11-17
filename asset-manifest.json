@@ -1,12 +1,13 @@
 {
   "main.css": "/happy-bday-ishitii/static/css/main.7b03e0fa.chunk.css",
-  "main.js": "/happy-bday-ishitii/static/js/main.c8ce332c.chunk.js",
-  "main.js.map": "/happy-bday-ishitii/static/js/main.c8ce332c.chunk.js.map",
+  "main.js": "/happy-bday-ishitii/static/js/main.effeea2a.chunk.js",
+  "main.js.map": "/happy-bday-ishitii/static/js/main.effeea2a.chunk.js.map",
   "static/js/1.4ad75668.chunk.js": "/happy-bday-ishitii/static/js/1.4ad75668.chunk.js",
   "static/js/1.4ad75668.chunk.js.map": "/happy-bday-ishitii/static/js/1.4ad75668.chunk.js.map",
   "runtime~main.js": "/happy-bday-ishitii/static/js/runtime~main.9f26cda3.js",
   "runtime~main.js.map": "/happy-bday-ishitii/static/js/runtime~main.9f26cda3.js.map",
   "static/media/style.css": "/happy-bday-ishitii/static/media/confetti.2b0b6409.gif",
+  "static/media/ajay.jpeg": "/happy-bday-ishitii/static/media/ajay.06a933c8.jpeg",
   "static/media/anmol.jpeg": "/happy-bday-ishitii/static/media/anmol.fd47ed06.jpeg",
   "static/media/anmol_2.jpeg": "/happy-bday-ishitii/static/media/anmol_2.fce1a709.jpeg",
   "static/media/aparna.jpeg": "/happy-bday-ishitii/static/media/aparna.02ace0cf.jpeg",
@@ -25,6 +26,6 @@
   "static/media/tanya_2.jpeg": "/happy-bday-ishitii/static/media/tanya_2.0c90151e.jpeg",
   "static/css/main.7b03e0fa.chunk.css.map": "/happy-bday-ishitii/static/css/main.7b03e0fa.chunk.css.map",
   "index.html": "/happy-bday-ishitii/index.html",
-  "precache-manifest.af0cc2ad044fccf00bb42399cd967010.js": "/happy-bday-ishitii/precache-manifest.af0cc2ad044fccf00bb42399cd967010.js",
+  "precache-manifest.4ca06f75da1f2dd92b755d731bc309db.js": "/happy-bday-ishitii/precache-manifest.4ca06f75da1f2dd92b755d731bc309db.js",
   "service-worker.js": "/happy-bday-ishitii/service-worker.js"
 }

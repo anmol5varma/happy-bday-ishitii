@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/happy-bday-ishitii/precache-manifest.af0cc2ad044fccf00bb42399cd967010.js"
+  "/happy-bday-ishitii/precache-manifest.4ca06f75da1f2dd92b755d731bc309db.js"
 );
 
 workbox.clientsClaim();
