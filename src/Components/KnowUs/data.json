@@ -1,17 +1,47 @@
 [
     {
-        "imageList": ["budda.jpeg"],
-        "title": "Buddha",
-        "message": "Happy birthday ishita. Waiting for next party"
-    },
-    {
         "imageList": ["prabodh.jpeg"],
         "title": "Prabodh",
+        "message": "Happy Birthday isha!! I wish you get all the happiness in your life. You are the most cheerful person i have met with your bubbly personality you rule hearts of every person u meet. Just keep smiling and spreading joy everywhere like u do."
+    },
+    {
+        "imageList": ["budda.jpeg"],
+        "title": "Buddha",
         "message": "Happy birthday ishita. Waiting for next party"
     },
     {
         "imageList": ["apu.jpeg"],
         "title": "Apu",
         "message": "Happy birthday to the cutest, sweetest person i know. Wishing you the very best quarantined, social distanced and self isolating birthday. Thanks for being born many year ago. Happy birthday! 🎊"
+    },
+    {
+        "imageList": ["aparna.jpeg", "aparna_1.jpeg"],
+        "title": "Aparna",
+        "message": "Happy birthday best friend! I’m going to go all emo and pour my heart out for you today (see what you made me do). Thank you for making the last one year so easy for me in Bangalore. From being called out in meetings for gossiping (I don’t think I’ve ever been more embarrassed 😂) to our personal DSMs — over green tea in the snooker room😂, I honestly don’t think I’ve shared this much about my life with anyone. You know everything about my past, present and future better than anyone else and I know how much you care about me. You’ve been my rock during the rough days and I don’t think I can ever thank you enough for that. All your “Tu darrti hai Kya usse!” pep talks have always been super motivating 😂 All I can say is that we have a cosmic connection and no matter where we are or what we’re doing, I’m confident we’ll always have each other’s back. I’m so proud of everything you’ve achieved and I know this is just the beginning! You’re the cutest inside out Ishi. I love you soooo much and I can’t wait to hug you. Meet me soon! xo"
+    },
+    {
+        "imageList": ["pari.jpg"],
+        "title": "Pari",
+        "message": "Happiest birthday Gol-Matol, stay young, wild and free kid as you are. Let's go trekking..."
+    },
+    {
+        "imageList": ["paaji_1.jpeg", "paaji_2.jpeg"],
+        "title": "Paaji",
+        "message": "Thank you for always being there. Bangalore wouldn't have been the same without you. Love ❤️"
+    },
+    {
+        "imageList": ["shubhanshu.jpeg"],
+        "title": "Shubhanshu",
+        "message": "Happy birthday ishita. Waiting for next party"
+    },
+    {
+        "imageList": ["priyanshi.jpeg"],
+        "title": "Priii",
+        "message": "Happiest birthday Gol-Matol, stay young, wild and free kid as you are. Let's go trekking..."
+    },
+    {
+        "imageList": ["anmol_2.jpeg","anmol.jpeg"],
+        "title": "Anmooli",
+        "message": "Happy birthday ishitii ❤︎. Wishing you all the happiness and laughter in the world. From opening single's club in vit to being neighbours, from sansaar waale bhaiya to gol gappe waale bhaiya, from going for toefl to our dentist outings, from supporting one another in times of crisis to our late night chai and bike ride sessions. There are just so many kaands/stories we share. Ishitii is not just a nickname for me, it's an emotion. Kabhi mere upar koi show wagarah bana na toh usmein tu pakka se hogi 😜"
     }
 ]
