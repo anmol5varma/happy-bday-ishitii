@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "47045c801a12b649d5f9",
+    "revision": "c8ce332c789849305869",
     "url": "/happy-bday-ishitii/static/css/main.7b03e0fa.chunk.css"
   },
   {
-    "revision": "47045c801a12b649d5f9",
-    "url": "/happy-bday-ishitii/static/js/main.47045c80.chunk.js"
+    "revision": "c8ce332c789849305869",
+    "url": "/happy-bday-ishitii/static/js/main.c8ce332c.chunk.js"
   },
   {
     "revision": "4ad756683673bcb3be35",
@@ -68,6 +68,10 @@ self.__precacheManifest = [
     "url": "/happy-bday-ishitii/static/media/priyanshi.3525dc3d.jpeg"
   },
   {
+    "revision": "eedca878cd22bd7bf19ade1c2c83716b",
+    "url": "/happy-bday-ishitii/static/media/priyanshi_2.eedca878.jpeg"
+  },
+  {
     "revision": "f6f714182116ff3686d29657f889a56d",
     "url": "/happy-bday-ishitii/static/media/shubhanshu.f6f71418.jpeg"
   },
@@ -80,7 +84,7 @@ self.__precacheManifest = [
     "url": "/happy-bday-ishitii/static/media/tanya_2.0c90151e.jpeg"
   },
   {
-    "revision": "5da8ea3166ab45a0f3f07cef29f17dbe",
+    "revision": "cf984429f0fc5590190746ccdf1b07c8",
     "url": "/happy-bday-ishitii/index.html"
   }
 ];
