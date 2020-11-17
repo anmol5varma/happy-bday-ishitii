@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "adf1951466e0cdc67130",
+    "revision": "47045c801a12b649d5f9",
     "url": "/happy-bday-ishitii/static/css/main.7b03e0fa.chunk.css"
   },
   {
-    "revision": "adf1951466e0cdc67130",
-    "url": "/happy-bday-ishitii/static/js/main.adf19514.chunk.js"
+    "revision": "47045c801a12b649d5f9",
+    "url": "/happy-bday-ishitii/static/js/main.47045c80.chunk.js"
   },
   {
     "revision": "4ad756683673bcb3be35",
@@ -40,6 +40,10 @@ self.__precacheManifest = [
     "url": "/happy-bday-ishitii/static/media/apu.fd86195a.jpeg"
   },
   {
+    "revision": "e6896dd26697a0d834512fd5705291b1",
+    "url": "/happy-bday-ishitii/static/media/atif.e6896dd2.jpg"
+  },
+  {
     "revision": "9bc57b0759a3f31853a7181827ecf0ce",
     "url": "/happy-bday-ishitii/static/media/budda.9bc57b07.jpeg"
   },
@@ -68,7 +72,15 @@ self.__precacheManifest = [
     "url": "/happy-bday-ishitii/static/media/shubhanshu.f6f71418.jpeg"
   },
   {
-    "revision": "8c1915942a7b4f1c55b102a4e513102a",
+    "revision": "c99671700a415ed001cde221e5bd3db9",
+    "url": "/happy-bday-ishitii/static/media/tanya_1.c9967170.jpeg"
+  },
+  {
+    "revision": "0c90151e0d6c19b2e64215f748313154",
+    "url": "/happy-bday-ishitii/static/media/tanya_2.0c90151e.jpeg"
+  },
+  {
+    "revision": "5da8ea3166ab45a0f3f07cef29f17dbe",
     "url": "/happy-bday-ishitii/index.html"
   }
 ];

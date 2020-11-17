@@ -1,7 +1,7 @@
 {
   "main.css": "/happy-bday-ishitii/static/css/main.7b03e0fa.chunk.css",
-  "main.js": "/happy-bday-ishitii/static/js/main.adf19514.chunk.js",
-  "main.js.map": "/happy-bday-ishitii/static/js/main.adf19514.chunk.js.map",
+  "main.js": "/happy-bday-ishitii/static/js/main.47045c80.chunk.js",
+  "main.js.map": "/happy-bday-ishitii/static/js/main.47045c80.chunk.js.map",
   "static/js/1.4ad75668.chunk.js": "/happy-bday-ishitii/static/js/1.4ad75668.chunk.js",
   "static/js/1.4ad75668.chunk.js.map": "/happy-bday-ishitii/static/js/1.4ad75668.chunk.js.map",
   "runtime~main.js": "/happy-bday-ishitii/static/js/runtime~main.9f26cda3.js",
@@ -12,6 +12,7 @@
   "static/media/aparna.jpeg": "/happy-bday-ishitii/static/media/aparna.02ace0cf.jpeg",
   "static/media/aparna_1.jpeg": "/happy-bday-ishitii/static/media/aparna_1.163b1f38.jpeg",
   "static/media/apu.jpeg": "/happy-bday-ishitii/static/media/apu.fd86195a.jpeg",
+  "static/media/atif.jpg": "/happy-bday-ishitii/static/media/atif.e6896dd2.jpg",
   "static/media/budda.jpeg": "/happy-bday-ishitii/static/media/budda.9bc57b07.jpeg",
   "static/media/paaji_1.jpeg": "/happy-bday-ishitii/static/media/paaji_1.ee045ee3.jpeg",
   "static/media/paaji_2.jpeg": "/happy-bday-ishitii/static/media/paaji_2.3b730144.jpeg",
@@ -19,8 +20,10 @@
   "static/media/prabodh.jpeg": "/happy-bday-ishitii/static/media/prabodh.cbcfe2ad.jpeg",
   "static/media/priyanshi.jpeg": "/happy-bday-ishitii/static/media/priyanshi.3525dc3d.jpeg",
   "static/media/shubhanshu.jpeg": "/happy-bday-ishitii/static/media/shubhanshu.f6f71418.jpeg",
+  "static/media/tanya_1.jpeg": "/happy-bday-ishitii/static/media/tanya_1.c9967170.jpeg",
+  "static/media/tanya_2.jpeg": "/happy-bday-ishitii/static/media/tanya_2.0c90151e.jpeg",
   "static/css/main.7b03e0fa.chunk.css.map": "/happy-bday-ishitii/static/css/main.7b03e0fa.chunk.css.map",
   "index.html": "/happy-bday-ishitii/index.html",
-  "precache-manifest.4e13976440f14b5d7cdd08067db9739b.js": "/happy-bday-ishitii/precache-manifest.4e13976440f14b5d7cdd08067db9739b.js",
+  "precache-manifest.bd72b727455a5d47d35c88969327a9b1.js": "/happy-bday-ishitii/precache-manifest.bd72b727455a5d47d35c88969327a9b1.js",
   "service-worker.js": "/happy-bday-ishitii/service-worker.js"
 }
